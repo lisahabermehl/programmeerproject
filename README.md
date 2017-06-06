@@ -12,9 +12,9 @@ De app wordt gekoppeld aan een Google Calendar. Een extra feature van deze app i
 
 ### What data sets and data sources will you need, how you will get the data into the right form for your app?
 Ik ga de GoogleCalendar API gebruiken, en als het niet teveel is ook de Giphy API. Hoe ik de data er goed in krijg, zal ik hier uit halen: 
-Google Calendar:
+###### Google Calendar:
 https://developers.google.com/google-apps/calendar/quickstart/android
-Giphy:
+###### Giphy:
 https://github.com/Giphy/GiphyAPI 
 
 ### What separate parts of the application can be defined (decomposing the problem) and how these should work together.
