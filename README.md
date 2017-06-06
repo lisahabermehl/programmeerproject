@@ -1,10 +1,12 @@
-# project proposal
+## project proposal
 
 ### What problem will be solved for the user?
 Deze app kan handig zijn voor mensen die het lastig vinden om schoolwerk te plannen: wat moet ik allemaal doen, hoeveel tijd ben ik er ongeveer aan kwijt en hoe zou ik dit dan moeten verdelen over mijn dagen waarbij ik rekening houd met wat ik al op de planning heb staan. 
 
 ### What features will be available to solve the problem?
-De app wordt gekoppeld aan een Google Calendar. Een extra feature van deze app is de To do list. Deze lijst bestaat uit hoofditems (vakken bijvoorbeeld) en daaronder subitems (de verschillende dingen die zouden moeten gebeuren - het lezen van een hoofdstuk, het lezen van een artikel, schrijven van een essay). In het hoofdmenu kan de user instellen hoeveel tijd hij/zij kwijt is of kwijt wilt zijn aan het lezen van een artikel of het schrijven van een essay. Bij het invoeren van de subitems kan de user aangeven waar het om gaat (een artikel, een essay) of kan de user iets nieuws toevoegen.
+* De app wordt gekoppeld aan een Google Calendar. 
+* Een extra feature van deze app is de To do list. Deze lijst bestaat uit hoofditems (vakken bijvoorbeeld) en daaronder subitems (de verschillende dingen die zouden moeten gebeuren - het lezen van een hoofdstuk, het lezen van een artikel, schrijven van een essay). 
+* In het hoofdmenu kan de user instellen hoeveel tijd hij/zij kwijt is of kwijt wilt zijn aan het lezen van een artikel of het schrijven van een essay. Bij het invoeren van de subitems kan de user aangeven waar het om gaat (een artikel, een essay) of kan de user iets nieuws toevoegen.
 
 ### A visual sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out separately.
 
@@ -12,16 +14,14 @@ De app wordt gekoppeld aan een Google Calendar. Een extra feature van deze app i
 
 ### What data sets and data sources will you need, how you will get the data into the right form for your app?
 Ik ga de GoogleCalendar API gebruiken, en als het niet teveel is ook de Giphy API. Hoe ik de data er goed in krijg, zal ik hier uit halen: 
-###### Google Calendar:
-https://developers.google.com/google-apps/calendar/quickstart/android
-###### Giphy:
-https://github.com/Giphy/GiphyAPI 
+* [Google Calendar](https://developers.google.com/google-apps/calendar/quickstart/android)
+* [Giphy](https://github.com/Giphy/GiphyAPI)
 
 ### What separate parts of the application can be defined (decomposing the problem) and how these should work together.
 Eerst dus de main screen, waar het volgende op staat:
 ###### My calendar
-  * Een overzicht van google calendar + items uit de list
-  * Door te kijken naar wat iemand al te doen heeft, wat diegene nog allemaal moet doen, wanneer dit af moet zijn en 
+* Een overzicht van Google Calendar + items uit de list
+* Door te kijken naar wat iemand al te doen heeft, wat diegene nog allemaal moet doen, wanneer dit af moet zijn en 
 ###### To do
   * Dit bestaat uit twee verschillende lijsten
   * Een main iets zoals bijvoorbeeld “schrijven van scriptie”
