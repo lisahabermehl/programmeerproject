@@ -1,3 +1,3 @@
 # project
 
-![](doc/image.jpg)
+![](doc/image.JPG)
