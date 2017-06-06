@@ -39,11 +39,11 @@ Verder denk ik niet dat er veel problemen kunnen zijn. Maar als er iets niet lij
 
 ### A review of similar mobile apps, in terms of features and technical aspects: what do they offer? how have they implemented it? can you do it in the same way?
 Er zijn wel wat apps die hetzelfde doen.
-* [Timer Light](https://play.google.com/store/apps/details?id=com.timleg.egoTimerLight)
+#### [To-Do Calendar Planner](https://play.google.com/store/apps/details?id=com.timleg.egoTimerLight)
 Zelfde als Google Calendar en daarbij is progression zichtbaar.
-* [Anydo](https://play.google.com/store/apps/details?id=com.anydo)
+#### [Any.do: To-do list & Calendar](https://play.google.com/store/apps/details?id=com.anydo)
 Maar deze zijn niet gericht op studenten en het studeren. 
-* [Intersog](https://play.google.com/store/apps/details?id=com.intersog.android.schedule)
+#### [Schedule Planner Classic](https://play.google.com/store/apps/details?id=com.intersog.android.schedule)
 Ik zou hier wel wat ideeën uit kunnen halen als het gaat om het totale overzicht (My Calendar) en het weergeven van de To do list. Ik denk dat het zichtbare gedeelte wel overeenkomt. Alleen dat de app zelf gaat berekenen wanneer dingen gedaan moeten worden om op tijd klaar te zijn met een opdracht of met het lezen van artikelen is wel iets wat mijn app anders maakt. 
 
 ### Which parts of the application define the minimum viable product (MVP) and which parts may be optional to implement.
