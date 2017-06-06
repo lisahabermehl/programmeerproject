@@ -19,14 +19,14 @@ https://github.com/Giphy/GiphyAPI
 
 ### What separate parts of the application can be defined (decomposing the problem) and how these should work together.
 Eerst dus de main screen, waar het volgende op staat:
-*My calendar
-  *Een overzicht van google calendar + items uit de list
-  *Door te kijken naar wat iemand al te doen heeft, wat diegene nog allemaal moet doen, wanneer dit af moet zijn en 
-*To do
+###### My calendar
+  * Een overzicht van google calendar + items uit de list
+  * Door te kijken naar wat iemand al te doen heeft, wat diegene nog allemaal moet doen, wanneer dit af moet zijn en 
+######To do
   *Dit bestaat uit twee verschillende lijsten
   *Een main iets zoals bijvoorbeeld “schrijven van scriptie”
   *En subitems: welke artikelen moeten worden gelezen, hoeveel tijd is daarvoor nodig
-*SOG
+###### SOG
   *Hier komt standaard een random GIF te staan
   *Daarnaast rechtsbovenin een optie om een bepaald soort GIF op te zoeken (happy, party etc.) en hier ook een optie om te refreshen en een andere random GIF te zien.
   
